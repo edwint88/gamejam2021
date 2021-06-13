@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4a762b856b441da4eb4f59d624209052
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _container: {instanceID: 0}
+  - _listener: {instanceID: 0}
+  - _deactivated: {fileID: 2100000, guid: b96c7a30c22881541b3e4378fa7ee1e1, type: 2}
+  - _activated: {fileID: 2100000, guid: 25bf46ee5f75e28408bfd69b3e14d192, type: 2}
+  - _task: {fileID: 11400000, guid: f9683f42e49a93145b2f4bbd4e03ca61, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
